@@ -1,4 +1,4 @@
-## Installing the CLI
+## Installing the Zapier
 - Install the CLI globally.
 	* npm install -g zapier-platform-cli
 - Setup auth to Zapier's platform with a deploy key
